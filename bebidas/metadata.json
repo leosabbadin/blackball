@@ -1,0 +1,8 @@
+{
+  "name": "BlackBall - Bebidas sem foto",
+  "description": "Cardápio digital 100% mobile e premium de bebidas para o BlackBall Sinuca Bar, com doses, shots, cervejas trincando, garrafas nobres, sucos e vinhos, busca em tempo real e categorias organizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

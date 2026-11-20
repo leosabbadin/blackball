@@ -1,0 +1,8 @@
+{
+  "name": "BlackBall - Cardápio de Essências",
+  "description": "Escolha sua essência, descubra novos sabores e monte a experiência do seu jeito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
