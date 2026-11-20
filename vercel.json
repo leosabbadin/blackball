@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/lp",
+      "destination": "https://black-ball-lp-ten.vercel.app/"
+    },
+    {
+      "source": "/lp/:path*",
+      "destination": "https://black-ball-lp-ten.vercel.app/:path*"
+    }
+  ]
+}

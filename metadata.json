@@ -1,0 +1,8 @@
+{
+  "name": "BlackBall - Comidas sem fotos",
+  "description": "Cardápio digital 100% mobile, cinematográfico e premium de comidas para o BlackBall Sinuca Bar, com vídeos em looping de alta definição dos pratos, busca em tempo real, categorias e detalhes de porções.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
